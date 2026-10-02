@@ -1,0 +1,56 @@
+{
+  "search_queries": [
+    "https://www.linkedin.com/jobs/search/?f_AL=true&keywords=C%23%20OR%20.NET%20OR%20Java%20OR%20Backend%20Engineer&location=Cape%20Town%2C%20Western%20Cape%2C%20South%20Africa&f_WT=2%2C3",
+    "https://www.linkedin.com/jobs/search/?f_AL=true&keywords=C%23%20OR%20.NET%20OR%20Java%20OR%20Fintech%20Backend&location=Johannesburg%2C%20Gauteng%2C%20South%20Africa&f_WT=2%2C3",
+    "https://www.linkedin.com/jobs/search/?f_AL=true&keywords=Remote%20Backend%20Engineer%20C%23%20Java%20Python&f_WT=2%2C3"
+  ],
+  "candidate_profile": {
+    "first_name": "John",
+    "last_name": "Doe",
+    "phone": "+27 83 821 8974",
+    "email": "johndoe@example.com",
+    "location": "Johannesburg, South Africa",
+    "work_authorization": "Yes, legally authorized to work in South Africa.",
+    "require_sponsorship": "No for South Africa. Open to visa sponsorship and relocation support for international opportunities.",
+    "resume_summary": "High-performance Backend Software Engineer specializing in scalable, high-availability systems for Fintech and Enterprise environments. Deep expertise in C# / .NET, Java, Python, and JavaScript/TypeScript. Experienced in low-latency backend architectures, RESTful API design, GCP, Cloudflare Workers, Docker, CI/CD pipelines, and technical leadership.",
+    "location_preferences": [
+      "Cape Town, Western Cape, South Africa (Primary relocation target - Hybrid / On-site / Tech Hubs like Century City or City Bowl)",
+      "Johannesburg / Sandton, Gauteng, South Africa (Local - Hybrid / On-site)",
+      "Remote - EMEA / Worldwide (Fully remote, earning in USD/EUR via global platforms like Arc.dev or Turing)",
+      "Global Relocation (Europe, UK, North America with visa sponsorship)"
+    ],
+    "career_goals": "Targeting high-earning Backend Engineering roles within Tier-1 Fintechs, Big Tech, quantitative trading platforms, and cloud infrastructure companies.",
+    "salary_expectations": {
+      "currency_local": "ZAR",
+      "annual_zar": "1000000",
+      "hourly_usd": "50",
+      "daily_eur": "400"
+    },
+    "target_industries": [
+      "Fintech & Digital Banking (e.g., Electrum, stitch, major banks)",
+      "Cloud Infrastructure & SaaS (e.g., AWS, global enterprise setups)",
+      "Enterprise Software Solutions",
+      "Quantitative Trading & Web3 Infrastructure"
+    ],
+    "target_roles": [
+      "Backend Software Engineer",
+      "C# / .NET Developer",
+      "Java Software Engineer",
+      "Systems Engineer",
+      "Cloud Infrastructure Engineer"
+    ],
+    "screening_answers_template": {
+      "years_of_experience": "3+ years of professional backend development, microservices architecture, and technical leadership experience building production-grade systems.",
+      "notice_period": "Immediate to 2 weeks",
+      "comfortable_with_hybrid": "Yes, highly enthusiastic about hybrid structures in Cape Town or Johannesburg tech ecosystems.",
+      "comfortable_with_remote": "Yes, fully optimized high-speed home office setup configured for asynchronous, high-output engineering.",
+      "relocation_intent": "Actively looking to relocate to Cape Town or open to international remote/relocation pathways with sponsorship."
+    }
+  },
+  "execution_config": {
+    "max_applications_per_session": 25,
+    "delay_range_seconds": [30, 60],
+    "dry_run_mode": true,
+    "skip_external_redirects": true
+  }
+}
